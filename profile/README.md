@@ -1,4 +1,4 @@
-# 🦥 Sloth Agent – Building the Future of AI-Powered Multi-Chain Ecosystem
+# Sloth Agent – Building the Future of AI-Powered Multi-Chain Ecosystem
 
 **Sloth Agent** is a next-gen AI-powered platform designed to simplify and supercharge how users interact with the crypto ecosystem. It combines real-time analytics, automation, and smart agents to help users create, trade, and track tokens across multiple blockchains—all from a sleek, intuitive interface.
 
