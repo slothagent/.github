@@ -97,6 +97,6 @@ Sloth Agent aims to be the most accessible and intelligent Web3 AI platform, ena
 
 - 🌐 Website: [https://www.slothai.xyz](https://www.slothai.xyz)
 - 📩 Email: support@slothai.xyz 
-- 🗨 Telegram: [https://t.me/slothagent](https://t.me/slothagent)  
+- 🗨 Telegram: [https://t.me/slothagentx](https://t.me/slothagentx)  
 - 🐦 Twitter: [https://twitter.com/slothagentX](https://twitter.com/slothagentX)  
 - 📚 GitHub: [https://github.com/slothagent](https://github.com/slothagent)
